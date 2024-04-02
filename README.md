@@ -11,3 +11,11 @@
     django-admin startproject quickstart
     django-admin startapp api
 ```
+
+### 진행 과정
+- 진행 과정은 DRF 페이지의 튜토리얼에 따라 진행한다.
+
+1. [QuickStart](https://www.django-rest-framework.org/tutorial/quickstart/) : Quickstart를 이용해 DRF 프로젝트 빠른 실행
+2. [Tutorial1: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/) : 직렬화를 이용해 프로젝트 작성
+3. [Tutorial2: Requests and Responses](https://www.django-rest-framework.org/tutorial/2-requests-and-responses/) : request와 response를 이해하고 api_views 데코레이터를 활용하여 코드 리팩토링
+ 
